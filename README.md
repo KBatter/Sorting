@@ -1,0 +1,1 @@
+Run using main. Will sort inputted list of integers using the selected sorting method. Note that treeSort requires a unique list to work, so random generation is not recommended. Bogo and Bozo sort will take very long for large input sequences.
